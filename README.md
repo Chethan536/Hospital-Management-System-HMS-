@@ -22,7 +22,8 @@ This is an end-to-end Hospital Management System built using Microsoft Access. T
 * **Access SQL:** For data retrieval and dynamic queries.
 * **VBA (Visual Basic for Applications):** For form automation, validation, and custom business logic.
 
-### Setup and Installation
+### Setup and Installation!
+
 
 1.  **Download the Database:** Download the `HospitalMS.accdb` file from this repository.
 2.  **Enable Macros:** Microsoft Access will block VBA code by default. To enable it, open the database file and follow the security warning prompts to enable content. For long-term use, add the folder containing the database to Access's **Trusted Locations** (File > Options > Trust Center > Trust Center Settings > Trusted Locations).
@@ -37,9 +38,9 @@ This is an end-to-end Hospital Management System built using Microsoft Access. T
 
 ### Screenshots
 
-_You can add your screenshots here to show the key features of your project._
 
-* **Main Invoice Form:** _(Show the `frmBill` with populated data)_
+* **Main Invoice Form:** _<img width="1919" height="1195" alt="Screenshot 2025-08-16 183948" src="https://github.com/user-attachments/assets/e3bf5ad3-ce83-4d42-a2ca-e663985b2ba1" />
+
 * **Relationships Window:** _(Show the tables and links)_
 * **Appointment Form:** _(Show the `frmAppointments` form with the combo boxes)_
 * **Example Report:** _(Show a print preview of the invoice or daily schedule report)_
