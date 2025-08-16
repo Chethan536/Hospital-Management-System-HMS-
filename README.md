@@ -39,11 +39,14 @@ This is an end-to-end Hospital Management System built using Microsoft Access. T
 ### Screenshots
 
 
-* **Main Invoice Form:** _<img width="1919" height="1195" alt="Screenshot 2025-08-16 183948" src="https://github.com/user-attachments/assets/e3bf5ad3-ce83-4d42-a2ca-e663985b2ba1" />
+* **Main Invoice Form:** <img width="1919" height="1195" alt="Screenshot 2025-08-16 183948" src="https://github.com/user-attachments/assets/e3bf5ad3-ce83-4d42-a2ca-e663985b2ba1" />
 
-* **Relationships Window:** _(Show the tables and links)_
-* **Appointment Form:** _(Show the `frmAppointments` form with the combo boxes)_
-* **Example Report:** _(Show a print preview of the invoice or daily schedule report)_
+* **Relationships Window:** <img width="1919" height="1199" alt="Screenshot 2025-08-16 184427" src="https://github.com/user-attachments/assets/b1a4efb5-9d1c-4d25-ab15-e6aabae0036e" />
+
+* **Appointment Form:** <img width="1919" height="1199" alt="Screenshot 2025-08-16 184851" src="https://github.com/user-attachments/assets/e40297c0-615c-482a-a0ad-44a33e926bfe" />
+
+* **Example Report:** <img width="1919" height="1188" alt="Screenshot 2025-08-16 185234" src="https://github.com/user-attachments/assets/3e3dd5d6-f91d-4d6c-8e5b-c264a3d8046f" />
+
 
 ### Credits
 
